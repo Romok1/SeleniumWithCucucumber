@@ -22,7 +22,7 @@
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.version.date" value="2021-03-16"/>
     <property name="java.home" value="/opt/homebrew/Cellar/openjdk/15.0.1/libexec/openjdk.jdk/Contents/Home"/>
-    <property name="testng.dtd.http" value="true"/>
+    <property name="-Dtestng.dtd.http" value="true"/>
     <property name="file.separator" value="/"/>
     <property name="basedir" value="/Users/karthikkk/seleniumbasic/SeleniumWithCucucumber"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
